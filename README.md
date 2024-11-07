@@ -1,4 +1,4 @@
-# Caja091024
+# Caja
 Mejoras de Versión:
 - Se mejora visibilidad en card de productos 
 - Se quita SKU de pedido
